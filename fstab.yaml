@@ -1,5 +1,5 @@
 mountpoints:
-  /:
+  /: https://adobe.sharepoint.com/sites/vmendon-project/Website
     url: "https://author-p140426-e1433687.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
